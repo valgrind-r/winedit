@@ -1,2 +1,2 @@
 # winedit
-text editor for the windows shell.
+GNU nano like alternative for windows.
